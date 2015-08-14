@@ -1,0 +1,9 @@
+##conf file
+# execute as:
+# user : ~/.conf/upstart
+# root : /etc/init
+
+exec_path=/home/library/.config/upstart
+
+startup_file=/home/library/testscript
+
