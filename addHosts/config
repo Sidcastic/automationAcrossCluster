@@ -1,5 +1,9 @@
 ##conf file
 
+
+#location to make entry for the hosts addes to the system
 _host_ip_=~/Dropbox/host_ip
 
+
+#location to handel specific jobs for the host systems
 _host_file_=~/Dropbox
